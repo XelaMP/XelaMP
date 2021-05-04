@@ -3,9 +3,9 @@
 
 
 #### 📬 Find me at
-[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/CarosDrean/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscar-salcedo-l%C3%B3pez/)](https://www.linkedin.com/in/oscar-salcedo-l%C3%B3pez/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josueht15@gmail.com)](mailto:josueht1595@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/XelaMP/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/alexander-matta-pisconti-3a624418a/)](https://www.linkedin.com/in/alexander-matta-pisconti-3a624418a/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexanderpisconti@gmail.com)](mailto:alexanderpisconti@gmail.com)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
