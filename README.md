@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Walter</h1>
 <h3 align="center">A passionate developer from Peru, and I really want to travel the world.</h3>
 
-<p align="left"> <a href="https://twitter.com/alex67827192" target="blank"><img src="https://img.shields.io/twitter/follow/alex67827192?logo=twitter&style=for-the-badge" alt="alex67827192" /></a> </p>
-<p align="left"><a href="https://www.linkedin.com/in/alexander-matta-pisconti-3a624418a" target="blank><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/alexander-matta-pisconti-3a624418a"/></a> </p>
+<p align="left">
+<a href="https://twitter.com/alex67827192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="alex67827192" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexander-matta-pisconti-3a624418a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="alexander-matta-pisconti-3a624418a" height="30" width="40" /></a>
+</p>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
