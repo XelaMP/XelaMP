@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander</h1>
+<h1 align="center">Hi 👋, I'm Walter</h1>
 <h3 align="center">A passionate developer from Peru, and I really want to travel the world.</h3>
 
 <p align="left"> <a href="https://twitter.com/alex67827192" target="blank"><img src="https://img.shields.io/twitter/follow/alex67827192?logo=twitter&style=for-the-badge" alt="alex67827192" /></a> </p>
@@ -8,13 +8,13 @@
 
 I'm a **graduate in Systems Engineering🎓 [@San Juan Bautista](https://www.upsjb.edu.pe/)**. I like to collaborate with people and give solutions to improve quality. I consider myself proactive in all aspects of my life. <br/><br/>   
 
-- 🌱 I’m currently learning **Angular JS, Windows Server 2016 and linux**
-
 - 🔭 I’m currently working on [Holosalud](https://holosalud.org/)
+
+- 🌱 I’m currently learning **Angular JS, Windows Server 2016 and linux**
 
 - 👯 I’m looking to collaborate on [Resultados Online Holosalud](https://github.com/CarosDrean/holo-results)
 
-- 💬 Ask me about **Anything in life.**
+- 💬 Ask me about **anything in life.**
 
 - 📫 How to reach me **alexanderpisconti@gmail.com**
 
