@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Peru, and I really want to travel the world.</h3>
 
 <p align="left"> <a href="https://twitter.com/alex67827192" target="blank"><img src="https://img.shields.io/twitter/follow/alex67827192?logo=twitter&style=for-the-badge" alt="alex67827192" /></a> </p>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-matta-pisconti-3a624418a/)](https://www.linkedin.com/in/alexander-matta-pisconti-3a624418a/)
+<p align="left"><a href="https://www.linkedin.com/in/alexander-matta-pisconti-3a624418a" target="blank><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/alexander-matta-pisconti-3a624418a"/></a> </p>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
