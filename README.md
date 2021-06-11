@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Walter</h1>
+<h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A passionate developer from Peru, and I really want to travel the world.</h3>
 
 
