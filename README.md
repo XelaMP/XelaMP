@@ -12,7 +12,7 @@
 
 I'm a **graduate in Systems Engineering🎓 [@San Juan Bautista](https://www.upsjb.edu.pe/)**. I like to collaborate with people and give solutions to improve quality. I consider myself proactive in all aspects of my life. <br/><br/>   
 
-- 🔭 I’m currently working on [Holosalud](https://holosalud.org/)
+- 🔭 I’m currently working on [Caja Municipal de Ahorro y Credito Ica](https://cajaica.pe/)
 
 - 🌱 I’m currently learning **Angular JS, Windows Server 2016 and linux**
 
